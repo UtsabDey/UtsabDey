@@ -29,4 +29,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=utsabdey&show_icons=true&theme=dark&locale=en&count_private=true&text_color=d3d3d3&icon_color=00E6FE&title_color=00E6FE" alt="utsabdey" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utsabdey&theme=dark&theme=black-ice&stroke=0000&count_private=true" alt="utsabdey" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utsabdey&count_private=true&theme=dark&theme=black-ice&stroke=0000" alt="utsabdey" /></p>
