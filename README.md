@@ -1,8 +1,10 @@
-![logo](https://chkskills.com/wp-content/uploads/2020/04/PNC-Animated-Banners.gif)
+![logo](https://camo.githubusercontent.com/46b8d91ae101191fb187caff3f4ed098a54a02877efda2ada2c8c9adcb2f0eba/68747470733a2f2f692e6962622e636f2f33685371764b6e2f3230393433383631392d32353039316364662d613132362d346539352d613234632d3565666466383035373630362e676966)
 <h1 align="center">Hi 👋, I'm Utsab Dey</h1>
 <h3 align="center">A passionate Laravel developer from Bangladesh with a strong focus on building scalable web applications. I love exploring new technologies and finding elegant solutions to complex problems.</h3>
 
-<p align="right"> <img src="https://camo.githubusercontent.com/5352b6b2b973a416adb9f788796e6e861e6ff286d2d83780df8ef7d90d4ca349/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" alt="utsabdey" width="400"/> </p>
+<img align="right" src="https://camo.githubusercontent.com/5352b6b2b973a416adb9f788796e6e861e6ff286d2d83780df8ef7d90d4ca349/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" alt="utsabdey" width="400"/>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=UtsabDey&label=Profile%20views&color=0e75b6&style=flat" alt="UtsabDey" /> </p>
 
 - 🔭 I’m currently working on **ERP**, **Multi-Vendor E-commerce** and **PHP** as Core Language
 
